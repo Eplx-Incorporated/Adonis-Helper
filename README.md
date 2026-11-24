@@ -1,4 +1,5 @@
 # Adonis Helper
+<img width="1536" height="1024" alt="Adonis Helper Laurel Emblem" src="https://github.com/user-attachments/assets/1379c705-7e93-4134-b9c3-22833ad7c5dc" />
 
 Adonis Helper is a utility designed to simplify the installation and setup of **Adonis Admin** for your Roblox game.
 
