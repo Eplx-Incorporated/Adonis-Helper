@@ -20,4 +20,4 @@ Adonis Helper is designed to make keeping Adonis up to date easier. When install
 
 ---
 
-**Adonis Helper — Simplifying installation, keeping your Adonis up to date.**
+**Adonis Helper (COMING SOON) — Simplifying installation, keeping your Adonis up to date.**
